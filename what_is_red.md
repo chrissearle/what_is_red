@@ -1,7 +1,10 @@
+theme: Itera
+slide-transition: true
+
 [.background-color: #FF0000]
 [.header: #FFFFFF]
 
-##   So tell me - in your own words - what is "red" ?
+## So tell me - in your own words - what is "red" ?
 
 ---
 
@@ -9,9 +12,9 @@
 
 ## Background
 
-* What colour is that?
-* If you know that - how can you be colourblind?
-* What does that look like to you?
+- What colour is that?
+- If you know that - how can you be colourblind?
+- What does that look like to you?
 
 ---
 
@@ -25,9 +28,9 @@ In 2017 while I was working at KLP - Itera had 7 developers - three were colourb
 
 ## Three main kinds of colourblindness
 
-* Protanope: reduced sensitivity to red light
-* Deuteranope: reduced sensitivity to green light (most common)
-* Tritanope: reduced sensitivity to blue light (extremely rare)
+- Protanope: reduced sensitivity to red light
+- Deuteranope: reduced sensitivity to green light (most common)
+- Tritanope: reduced sensitivity to blue light (extremely rare)
 
 True monochrome colour blindness - even rarer.
 
@@ -35,29 +38,35 @@ Protonopia and deutronopia are commonly called red/green.
 
 ---
 
+[.footer: http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/]
+
 ## Protanopes
 
 Protanopes are more likely to confuse
 
-* Black with many shades of red
-* Dark brown with dark green, dark orange and dark red
-* Some blues with some reds, purples and dark pinks
-* Mid-greens with some oranges
+- Black with many shades of red
+- Dark brown with dark green, dark orange and dark red
+- Some blues with some reds, purples and dark pinks
+- Mid-greens with some oranges
 
 ---
+
+[.footer: http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/]
 
 ## Deuteranopes
 
 Deuteranopes are more likely to confuse
 
-* Mid-reds with mid-greens
-* Blue-greens with grey and mid-pinks
-* Bright greens with yellows
-* Pale pinks with light grey
-* Mid-reds with mid-brown
-* Light blues with lilac
+- Mid-reds with mid-greens
+- Blue-greens with grey and mid-pinks
+- Bright greens with yellows
+- Pale pinks with light grey
+- Mid-reds with mid-brown
+- Light blues with lilac
 
 ---
+
+[.footer: http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/]
 
 ## Tritanopes
 
@@ -65,36 +74,31 @@ The most common colour confusions for tritanopes are light blues with greys, dar
 
 ---
 
-## Types of colour blindness
-
-http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/
-
----
-
 [.build-lists: true]
 
 ## Hard to live with?
 
-* Charging LEDs
-* Bananas
-* Photography/Video
-* No - not really - just something you get used to.
+- Charging LEDs
+- Bananas
+- Photography/Video
+- No - not really - just something you get used to.
 
 ---
 
 [.background-color: #000000]
+[.footer-style: #FFFFFF]
+[.footer: http://freepages.rootsweb.ancestry.com/~hellmers/test/]
 
 ![inline](pictures/test_image.jpg)
 
 ---
 
+[.footer-style: #FFFFFF]
+[.footer: http://freepages.rootsweb.ancestry.com/~hellmers/test/]
+
 [.background-color: #000000]
 
 ![inline](pictures/test_key.jpg)
-
-<section class="slide black">
-    <img class="cover" src="pictures/test_key.jpg"
-         alt="Colour blindness key for children"/>
 
 ---
 
@@ -104,7 +108,7 @@ Children with normal vision can see the bear, deer, rabbit, and squirrel. They c
 
 Children with a red-green color vision deficiency see a cow (instead of the deer), a fox (in the lower left), and usually the rabbit and squirrel. They cannot see the bear.
 
-Source: http://freepages.rootsweb.ancestry.com/~hellmers/test/
+[.footer: [freepages.rootsweb.ancestry.com/~hellmers/test/](http://freepages.rootsweb.ancestry.com/~hellmers/test/)]
 
 ---
 
