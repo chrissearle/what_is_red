@@ -1,4 +1,3 @@
-theme: Itera
 slide-transition: true
 
 [.background-color: #FF0000]
@@ -22,27 +21,26 @@ slide-transition: true
 
 8% of men and 0.5% of women are colourblind to some degree.
 
-In 2017 while I was working at KLP - Itera had 7 developers - three were colourblind.
+In 2017 we had 7 developers from my company - three were colourblind and they were all on the same team.
 
 ---
 
 ## Three main kinds of colourblindness
 
-- Protanope: reduced sensitivity to red light
-- Deuteranope: reduced sensitivity to green light (most common)
-- Tritanope: reduced sensitivity to blue light (extremely rare)
+- Protan: red light
+- Deutan: green light (most common)
+- Tritan: blue light (extremely rare)
 
-True monochrome colour blindness - even rarer.
+### Suffixes
 
-Protonopia and deutronopia are commonly called red/green.
+*anomaly - shifted or reduced response
+*opia - complete absense of sensors/cones
+
+Proton and deutan are commonly called red/green.
 
 ---
 
-[.footer: http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/]
-
-## Protanopes
-
-Protanopes are more likely to confuse
+## Protan
 
 - Black with many shades of red
 - Dark brown with dark green, dark orange and dark red
@@ -51,11 +49,7 @@ Protanopes are more likely to confuse
 
 ---
 
-[.footer: http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/]
-
-## Deuteranopes
-
-Deuteranopes are more likely to confuse
+## Deutan
 
 - Mid-reds with mid-greens
 - Blue-greens with grey and mid-pinks
@@ -66,11 +60,9 @@ Deuteranopes are more likely to confuse
 
 ---
 
-[.footer: http://www.colourblindawareness.org/colour-blindness/types-of-colour-blindness/]
+## Tritan
 
-## Tritanopes
-
-The most common colour confusions for tritanopes are light blues with greys, dark purples with black, mid-greens with blues and oranges with reds.
+The most common colour confusions for tritans are light blues with greys, dark purples with black, mid-greens with blues and oranges with reds.
 
 ---
 
@@ -78,10 +70,44 @@ The most common colour confusions for tritanopes are light blues with greys, dar
 
 ## Hard to live with?
 
+I am a medium protan (reduced red) and strong deutan (reduced green)
+
 - Charging LEDs
 - Bananas
 - Photography/Video
 - No - not really - just something you get used to.
+
+---
+
+## Tests
+
+There are many tests out there - for example:
+
+- Ishihara - coloured spots on a plate
+
+- Farnsworth Lantern Test - identify colours of pairs of lights
+
+- Farnsworth-Munsell 100 Hue Test - ordering of colour swatches
+
+- Cambridge Color Test - similar to Ishihara - but you are looking for the letter C
+
+- Anomaloscope Test - match two light sources in brightness and color
+
+---
+
+## Ishihara examples
+
+[.column]
+
+![inline](pictures/ishihara_42.png)
+
+42
+
+[.column]
+
+![inline](pictures/ishihara_2_vanishing.png)
+
+2 - vanishing
 
 ---
 
